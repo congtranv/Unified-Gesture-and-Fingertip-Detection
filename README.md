@@ -31,7 +31,7 @@ Included ```robust real-time hand detection using yolo``` for better smooth perf
 
 The ```weights``` folder contains four weights files. The ```classes5.h5``` is for the first five classes, ```classes8.h5``` is for the first eight classes. ```yolo.h5``` and ```solo.h5``` are for the yolo and solo method of hand detection. [(what is solo?)](https://github.com/MahmudulAlam/Unified-Gesture-and-Fingertip-Detection/tree/master/hand_detector/solo)
 
-@congtranv: use [miniconda3](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html) to setup a python 3.6 environment for running
+[@congtranv](https://github.com/congtranv): use [miniconda3](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html) to setup a python 3.6 environment for running
 
 ## Paper
 [![Paper](https://img.shields.io/badge/paper-ArXiv-ff0a0a.svg?longCache=true&style=flat)](https://arxiv.org/abs/2101.02047)
